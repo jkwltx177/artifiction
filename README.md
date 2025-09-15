@@ -1,4 +1,4 @@
-# ARTIFICTION: 실시간 딥페이크 스타일 트랜스퍼 명화 체험 프로젝트
+# 실시간 딥페이크 스타일 트랜스퍼 명화 체험 프로젝트 - Artifiction
 
 ![프로젝트 소개](ARTIFICTION_소개.png)
 
