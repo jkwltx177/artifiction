@@ -15,7 +15,8 @@
 - **딥페이크**: InsightFace, GFPGAN
 - **게임 엔진**: Unity (3D 환경 구축)
 - **GUI**: Gradio
-- **멀티프로세싱**: multiprocessing, threading
+- **멀티프로세싱**: multiprocessing
+- **멀티스레딩**: threading
 
 ## ✨ 주요 기능
 - **실시간 얼굴 스왑**: 웹캠으로 촬영한 관객의 얼굴을 사전 제작된 영상 속 인물의 얼굴과 실시간으로 교체
