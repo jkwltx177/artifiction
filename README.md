@@ -5,7 +5,7 @@
 ## 🎨 프로젝트 개요
 **Artifiction**은 딥페이크(Deepfake)와 스타일 트랜스퍼(Style Transfer) 기술을 결합하여, 관객이 실시간으로 명화 속 주인공이 되는 경험을 제공하는 인터랙티브 미디어 아트 프로젝트입니다. 관객은 웹캠 앞에 서면 자신의 얼굴이 명화 속 인물과 합성되고, 동시에 해당 명화의 화풍이 적용되어 마치 자신이 실제 명화의 일부가 된 듯한 몰입감 있는 경험을 하게 됩니다.
 
-## 🎨 구글 드라이브 링크
+## 🔗 구글 드라이브 링크
 - [구글 드라이브: dlc-fst](https://drive.google.com/drive/folders/1IqPK7_zxVG_X3TC8OHNiSIEMlIbmcAFX?usp=sharing)
 ## 💻 기술 스택
 - **언어**: Python 3.10+
